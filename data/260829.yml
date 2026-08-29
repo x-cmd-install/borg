@@ -1,0 +1,61 @@
+about:
+  description: Deduplicating archiver with compression and authenticated encryption.
+  license: NOASSERTION
+  homepage: https://www.borgbackup.org/
+  head: 6932422
+  archived: false
+  latestVersion: 2.0.0b23
+  collectedAt: 2026-08-29T07:16:56Z
+timeline:
+  created: 2015-05-12
+  lastCommit: 2026-08-28
+  lastRelease: 2026-08-23
+popularity:
+  star: 13660
+  watcher: 137
+  fork: 867
+  release: 126
+  contributor: 334
+  pullRequest: 438
+  issue: 4653
+language:
+  Python: 3227497
+  Cython: 268648
+  C: 99466
+  HTML: 66061
+  Shell: 18156
+  Ruby: 254
+totalLine: 3680082
+recent:
+  last30d:
+    since: 2026-07-30
+    release: 1
+    mergedPR: 198
+    openPR: 14
+    closedIssue: 40
+    openIssue: 21
+    commit: 651
+  last90d:
+    since: 2026-05-31
+    release: 3
+    mergedPR: 383
+    openPR: 18
+    closedIssue: 105
+    openIssue: 39
+    commit: 1307
+  last180d:
+    since: 2026-03-02
+    release: 5
+    mergedPR: 558
+    openPR: 22
+    closedIssue: 142
+    openIssue: 49
+    commit: 1596
+  last360d:
+    since: 2025-09-03
+    release: 8
+    mergedPR: 784
+    openPR: 24
+    closedIssue: 276
+    openIssue: 57
+    commit: 2071
