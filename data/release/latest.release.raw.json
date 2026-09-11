@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 4297,
       "digest": "sha256:9245dd1cfffb1b40d7f1b112e9e917902f2ca255b63a417f671d3da3a12e204a",
-      "download_count": 684,
+      "download_count": 692,
       "created_at": "2026-07-18T22:33:37Z",
       "updated_at": "2026-07-18T22:33:38Z",
       "browser_download_url": "https://github.com/borgbackup/borg/releases/download/1.4.5/00_README.txt"
@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 15659426,
       "digest": "sha256:e969f9d25b3a950a2033f45b7d832e76fb9e25b4d9170aaaed2fb7260c1429c4",
-      "download_count": 328,
+      "download_count": 332,
       "created_at": "2026-07-18T22:32:09Z",
       "updated_at": "2026-07-18T22:32:18Z",
       "browser_download_url": "https://github.com/borgbackup/borg/releases/download/1.4.5/borg-freebsd-14-x86_64-gh"
@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 29585496,
       "digest": "sha256:c8457f70660064d0f45b38283ab4cc65b342970012013201d3aec713a75898fb",
-      "download_count": 7463,
+      "download_count": 7634,
       "created_at": "2026-07-31T09:39:28Z",
       "updated_at": "2026-07-31T09:39:50Z",
       "browser_download_url": "https://github.com/borgbackup/borg/releases/download/1.4.5/borg-linux-glibc231-x86_64"
@@ -211,7 +211,7 @@
       "state": "uploaded",
       "size": 898,
       "digest": "sha256:712575c6a800e0ba4bf496d846927a8de36de9b5fe03b20f6d3a23fdd4741e4e",
-      "download_count": 320,
+      "download_count": 326,
       "created_at": "2026-07-31T09:39:50Z",
       "updated_at": "2026-07-31T09:39:51Z",
       "browser_download_url": "https://github.com/borgbackup/borg/releases/download/1.4.5/borg-linux-glibc231-x86_64.asc"
@@ -247,7 +247,7 @@
       "state": "uploaded",
       "size": 29702061,
       "digest": "sha256:b6cba6b5eee19d51fbf4d89c6090dd40647b856755fffe2e26417365536f2c58",
-      "download_count": 467,
+      "download_count": 471,
       "created_at": "2026-07-31T09:39:51Z",
       "updated_at": "2026-07-31T09:40:01Z",
       "browser_download_url": "https://github.com/borgbackup/borg/releases/download/1.4.5/borg-linux-glibc231-x86_64.tgz"
@@ -319,7 +319,7 @@
       "state": "uploaded",
       "size": 30249376,
       "digest": "sha256:aae37546320810969d2f3cb41a23ec6b86f7fa1c5f868e18f10285978bc977e7",
-      "download_count": 18842,
+      "download_count": 19263,
       "created_at": "2026-07-18T22:25:23Z",
       "updated_at": "2026-07-18T22:25:47Z",
       "browser_download_url": "https://github.com/borgbackup/borg/releases/download/1.4.5/borg-linux-glibc235-arm64-gh"
@@ -355,7 +355,7 @@
       "state": "uploaded",
       "size": 30307499,
       "digest": "sha256:579d977d4eafd5761aee51e4a5bd3c52a5533a4391393d465324f675d14d3bd9",
-      "download_count": 403,
+      "download_count": 410,
       "created_at": "2026-07-18T22:29:55Z",
       "updated_at": "2026-07-18T22:30:31Z",
       "browser_download_url": "https://github.com/borgbackup/borg/releases/download/1.4.5/borg-linux-glibc235-arm64-gh.tgz"
@@ -391,7 +391,7 @@
       "state": "uploaded",
       "size": 31209344,
       "digest": "sha256:1410e28609be3080d0e3ab27a78f5c586a29fd0c75c2aa6415fcde1293bcd923",
-      "download_count": 75286,
+      "download_count": 75986,
       "created_at": "2026-07-18T22:30:31Z",
       "updated_at": "2026-07-18T22:31:10Z",
       "browser_download_url": "https://github.com/borgbackup/borg/releases/download/1.4.5/borg-linux-glibc235-x86_64-gh"
@@ -427,7 +427,7 @@
       "state": "uploaded",
       "size": 31272487,
       "digest": "sha256:6f8de476db2d6123e887c5ebf8b29e2f5d3f4d67d7ef64acbe5c700d9aef13de",
-      "download_count": 512,
+      "download_count": 520,
       "created_at": "2026-07-18T22:31:10Z",
       "updated_at": "2026-07-18T22:31:19Z",
       "browser_download_url": "https://github.com/borgbackup/borg/releases/download/1.4.5/borg-linux-glibc235-x86_64-gh.tgz"
@@ -463,7 +463,7 @@
       "state": "uploaded",
       "size": 15182240,
       "digest": "sha256:a47c308090ce4ada8b734a7fb7ae04269e85621961c61d40833e2ad3997b6c0f",
-      "download_count": 418,
+      "download_count": 422,
       "created_at": "2026-07-18T22:32:46Z",
       "updated_at": "2026-07-18T22:32:54Z",
       "browser_download_url": "https://github.com/borgbackup/borg/releases/download/1.4.5/borg-macos-15-arm64-gh"
@@ -499,7 +499,7 @@
       "state": "uploaded",
       "size": 15048602,
       "digest": "sha256:e2abb149e0c83c28dc43bd18ac3977c1f8b344c986eb67cb7d363893601964ba",
-      "download_count": 451,
+      "download_count": 457,
       "created_at": "2026-07-18T22:32:54Z",
       "updated_at": "2026-07-18T22:33:04Z",
       "browser_download_url": "https://github.com/borgbackup/borg/releases/download/1.4.5/borg-macos-15-arm64-gh.tgz"
@@ -535,7 +535,7 @@
       "state": "uploaded",
       "size": 15945168,
       "digest": "sha256:9690873e91beabd50c8873221e9f8ba7b19becd36eb0eb5d37fc34cbf78d15ef",
-      "download_count": 334,
+      "download_count": 337,
       "created_at": "2026-07-18T22:33:04Z",
       "updated_at": "2026-07-18T22:33:19Z",
       "browser_download_url": "https://github.com/borgbackup/borg/releases/download/1.4.5/borg-macos-15-x86_64-gh"
@@ -607,7 +607,7 @@
       "state": "uploaded",
       "size": 4034652,
       "digest": "sha256:4f9a5fe584c504b15485841236750dea16aa7cd2ddbc4a594e9d2ce5c49c4508",
-      "download_count": 644,
+      "download_count": 647,
       "created_at": "2026-07-18T22:15:11Z",
       "updated_at": "2026-07-18T22:15:15Z",
       "browser_download_url": "https://github.com/borgbackup/borg/releases/download/1.4.5/borgbackup-1.4.5.tar.gz"
@@ -643,7 +643,7 @@
       "state": "uploaded",
       "size": 898,
       "digest": "sha256:75cf208271938054bdef8c6620656c35bee598e59c69a466d5b4c6a00d074f20",
-      "download_count": 284,
+      "download_count": 289,
       "created_at": "2026-07-18T22:15:15Z",
       "updated_at": "2026-07-18T22:15:16Z",
       "browser_download_url": "https://github.com/borgbackup/borg/releases/download/1.4.5/borgbackup-1.4.5.tar.gz.asc"

@@ -2,12 +2,12 @@ about:
   description: "Deduplicating archiver with compression and authenticated encryption."
   license: NOASSERTION
   homepage: https://www.borgbackup.org/
-  head: 22c962d
+  head: 97c2f26
   archived: false
   latestVersion: "2.0.0b24"
   latestRelease: "1.4.5"
   latestPrerelease: "2.0.0b24"
-  collectedAt: 2026-09-11T04:10:20Z
+  collectedAt: 2026-09-11T20:37:54Z
 timeline:
   created: 2015-05-12
   lastCommit: 2026-09-11
@@ -20,85 +20,85 @@ popularity:
   fork: 874
   release: 127
   contributor: 335
-  pullRequest: 5313
-  issue: 4664
+  pullRequest: 5316
+  issue: 4665
 language:
-  Python: 3406839
+  Python: 3425585
   Cython: 273327
   C: 106904
   HTML: 66061
   Shell: 18156
   Ruby: 254
-totalBytes: 3871541
+totalBytes: 3890287
 recent:
   last30d:
     since: 2026-08-12
     release: 2
-    mergedPR: 207
-    openPR: 8
+    mergedPR: 209
+    openPR: 9
     closedIssue: 23
-    openIssue: 7
-    commit: 595
+    openIssue: 8
+    commit: 599
   last60d:
     since: 2026-07-13
     release: 4
-    mergedPR: 322
-    openPR: 10
-    closedIssue: 64
+    mergedPR: 324
+    openPR: 11
+    closedIssue: 65
     openIssue: 27
-    commit: 1064
+    commit: 1068
   last90d:
     since: 2026-06-13
     release: 4
-    mergedPR: 408
-    openPR: 13
-    closedIssue: 96
+    mergedPR: 410
+    openPR: 14
+    closedIssue: 97
     openIssue: 36
-    commit: 1363
+    commit: 1367
   last180d:
     since: 2026-03-15
     release: 6
-    mergedPR: 606
-    openPR: 18
-    closedIssue: 141
+    mergedPR: 608
+    openPR: 19
+    closedIssue: 142
     openIssue: 47
-    commit: 1771
+    commit: 1775
   last360d:
     since: 2025-09-16
     release: 9
-    mergedPR: 854
-    openPR: 20
-    closedIssue: 281
+    mergedPR: 856
+    openPR: 21
+    closedIssue: 282
     openIssue: 56
-    commit: 2307
+    commit: 2311
   last720d:
     since: 2024-09-21
     release: 20
-    mergedPR: 1152
-    openPR: 22
-    closedIssue: 484
+    mergedPR: 1154
+    openPR: 23
+    closedIssue: 485
     openIssue: 72
-    commit: 2594
+    commit: 2598
 total:
   release: 127
-  mergedPR: 4876
-  openPR: 25
-  closedIssue: 4483
+  mergedPR: 4878
+  openPR: 24
+  closedIssue: 4484
   openIssue: 181
-  commit: 11252
+  commit: 11256
 ---
 path: /home/runner/.x-repo/github.com/borgbackup/borg
-collectedAt: 2026-09-11T04:10:29Z
+collectedAt: 2026-09-11T20:38:03Z
 loc:
   Python:
-    code: 60319
-    comments: 6437
-    blanks: 10431
+    code: 60615
+    comments: 6450
+    blanks: 10513
     files: 239
   ReStructuredText:
-    code: 13736
+    code: 13762
     comments: 0
-    blanks: 4007
+    blanks: 4017
     files: 64
   Bitbake:
     code: 6627
@@ -181,9 +181,9 @@ loc:
     blanks: 154
     files: 12
 total:
-  code: 90784
-  comments: 9394
-  blanks: 17043
+  code: 91106
+  comments: 9407
+  blanks: 17135
   files: 446
 ---
 date: "2026-09-07"
