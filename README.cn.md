@@ -12,6 +12,28 @@ Deduplicating archiver with compression and authenticated encryption.
 x install borg
 ```
 
+## 代码洞察
+
+合计: **89,014** 行代码（覆盖前 5 种语言、共 **393** 个文件）。
+
+| 语言 | 代码 | 注释 | 空行 | 文件数 |
+|------|-----:|-----:|-----:|------:|
+| Python | 60,249 | 6,422 | 10,420 | 239 |
+| ReStructuredText | 13,725 | 0 | 4,006 | 64 |
+| Bitbake | 6,627 | 39 | 351 | 62 |
+| Cython | 5,232 | 629 | 995 | 23 |
+| C | 896 | 342 | 115 | 5 |
+
+## OpenSSF Scorecard 评分
+
+总评分: **6.7 / 10**
+
+评分最低的几项:
+
+- **Code-Review** (2/10) — Found 2/9 approved changesets -- score normalized to 2
+- **Fuzzing** (0/10) — project is not fuzzed
+- **Pinned-Dependencies** (4/10) — dependency not pinned by hash detected -- score normalized to 4
+
 ## 源代码
 
 - **上游仓库**: <https://github.com/borgbackup/borg>
@@ -23,6 +45,25 @@ x install borg
 - **最新版本**: `2.0.0b24` (2026-07-18)
 - **最近提交**: 2026-09-10
 - **Release 含资产**: 17 个
+
+## 流行度
+
+- **Star**: 13,706 · **Fork**: 874 · **开放 issue**: 4,664 · **贡献者**: 335
+
+## 累计统计
+
+- **发布数**: 127 · **已合并 PR**: 4875 · **开放 PR**: 26 · **已关闭 issue**: 4482 · **开放 issue**: 182 · **提交数**: 11250
+
+## 最近活动
+
+| 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
+|---|---|---:|---:|---:|---:|---:|---:|
+| 30d | 2026-08-12 | 2 | 206 | 9 | 23 | 7 | 592 |
+| last60d | 2026-07-13 | 4 | 321 | 11 | 64 | 27 | 1061 |
+| 90d | 2026-06-13 | 4 | 407 | 14 | 96 | 36 | 1360 |
+| last180d | 2026-03-15 | 6 | 605 | 19 | 141 | 47 | 1768 |
+| 360d | 2025-09-16 | 9 | 853 | 21 | 280 | 57 | 2304 |
+| last720d | 2024-09-21 | 20 | 1151 | 23 | 483 | 73 | 2592 |
 
 ## Release 资产
 
@@ -46,44 +87,6 @@ x install borg
 | [borgbackup-1.4.5.tar.gz](https://github.com/borgbackup/borg/releases/download/1.4.5/borgbackup-1.4.5.tar.gz) | 3.8 MiB | `native/unknown` |
 | [borgbackup-1.4.5.tar.gz.asc](https://github.com/borgbackup/borg/releases/download/1.4.5/borgbackup-1.4.5.tar.gz.asc) | 898 B | `other` |
 
-## 流行度
-
-- **Star**: 13,705 · **Fork**: 874 · **开放 issue**: 4,664 · **贡献者**: 335
-
-## 累计统计
-
-- **发布数**: 127 · **已合并 PR**: 4875 · **开放 PR**: 25 · **已关闭 issue**: 4480 · **开放 issue**: 184 · **提交数**: 11250
-
-## 最近活动
-
-| 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
-|---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-11 | 2 | 214 | 8 | 26 | 9 | 592 |
-| 90d | 2026-06-12 | 4 | 410 | 13 | 96 | 36 | 1360 |
-| 360d | 2025-09-15 | 9 | 853 | 20 | 279 | 58 | 2304 |
-
-## 代码规模
-
-合计: **89,014** 行代码（覆盖前 5 种语言、共 **393** 个文件）。
-
-| 语言 | 代码 | 注释 | 空行 | 文件数 |
-|------|-----:|-----:|-----:|------:|
-| Python | 60,249 | 6,422 | 10,420 | 239 |
-| ReStructuredText | 13,725 | 0 | 4,006 | 64 |
-| Bitbake | 6,627 | 39 | 351 | 62 |
-| Cython | 5,232 | 629 | 995 | 23 |
-| C | 896 | 342 | 115 | 5 |
-
-## OpenSSF Scorecard 评分
-
-总评分: **6.7 / 10**
-
-评分最低的几项:
-
-- **Code-Review** (2/10) — Found 2/9 approved changesets -- score normalized to 2
-- **Fuzzing** (0/10) — project is not fuzzed
-- **Pinned-Dependencies** (4/10) — dependency not pinned by hash detected -- score normalized to 4
-
 ## 改进这些数据
 
 borg 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 索引维护——这是一份由 x-cmd 在安装时读取的精选 YAML 包列表。如果 `borg` 缺失、过期，或安装行为有问题，欢迎在该 repo 提 issue 或 PR：
@@ -93,4 +96,4 @@ borg 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 索
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260910.yml` · 2026-09-10T15:55:41Z._
+_数据快照: `data/card/260911.yml` · 2026-09-11T00:16:56Z._
