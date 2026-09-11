@@ -14,12 +14,12 @@ x install borg
 
 ## Code insight
 
-Total: **89,095** lines of code across **393** files in the top 5 languages.
+Total: **89,417** lines of code across **393** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Python | 60,319 | 6,437 | 10,431 | 239 |
-| ReStructuredText | 13,736 | 0 | 4,007 | 64 |
+| Python | 60,615 | 6,450 | 10,513 | 239 |
+| ReStructuredText | 13,762 | 0 | 4,017 | 64 |
 | Bitbake | 6,627 | 39 | 351 | 62 |
 | Cython | 5,232 | 629 | 995 | 23 |
 | C | 896 | 342 | 115 | 5 |
@@ -48,22 +48,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 13,706 · **Forks**: 874 · **Open issues**: 4,664 · **Contributors**: 335
+- **Stars**: 13,706 · **Forks**: 874 · **Open issues**: 4,665 · **Contributors**: 335
 
 ## Totals (cumulative)
 
-- **Releases**: 127 · **Merged PRs**: 4876 · **Open PRs**: 25 · **Closed issues**: 4483 · **Open issues**: 181 · **Commits**: 11252
+- **Releases**: 127 · **Merged PRs**: 4878 · **Open PRs**: 24 · **Closed issues**: 4484 · **Open issues**: 181 · **Commits**: 11256
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-12 | 2 | 207 | 8 | 23 | 7 | 595 |
-| last60d | 2026-07-13 | 4 | 322 | 10 | 64 | 27 | 1064 |
-| 90d | 2026-06-13 | 4 | 408 | 13 | 96 | 36 | 1363 |
-| last180d | 2026-03-15 | 6 | 606 | 18 | 141 | 47 | 1771 |
-| 360d | 2025-09-16 | 9 | 854 | 20 | 281 | 56 | 2307 |
-| last720d | 2024-09-21 | 20 | 1152 | 22 | 484 | 72 | 2594 |
+| 30d | 2026-08-12 | 2 | 209 | 9 | 23 | 8 | 599 |
+| last60d | 2026-07-13 | 4 | 324 | 11 | 65 | 27 | 1068 |
+| 90d | 2026-06-13 | 4 | 410 | 14 | 97 | 36 | 1367 |
+| last180d | 2026-03-15 | 6 | 608 | 19 | 142 | 47 | 1775 |
+| 360d | 2025-09-16 | 9 | 856 | 21 | 282 | 56 | 2311 |
+| last720d | 2024-09-21 | 20 | 1154 | 23 | 485 | 72 | 2598 |
 
 ## Release assets
 
@@ -96,4 +96,4 @@ Install metadata for borg lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260911.yml` · 2026-09-11T04:10:35Z._
+_Snapshot: `data/card/260911.yml` · 2026-09-11T20:38:09Z._
