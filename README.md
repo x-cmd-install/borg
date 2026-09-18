@@ -14,12 +14,12 @@ x install borg
 
 ## Code insight
 
-Total: **89,712** lines of code across **393** files in the top 5 languages.
+Total: **90,075** lines of code across **393** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Python | 61,001 | 6,556 | 10,570 | 239 |
-| ReStructuredText | 13,641 | 0 | 3,979 | 64 |
+| Python | 61,354 | 6,595 | 10,605 | 239 |
+| ReStructuredText | 13,651 | 0 | 3,975 | 64 |
 | Bitbake | 6,627 | 39 | 351 | 62 |
 | Cython | 5,262 | 636 | 999 | 23 |
 | C | 896 | 342 | 115 | 5 |
@@ -43,27 +43,27 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `2.0.0b24` (2026-07-18)
-- **Last commit**: 2026-09-16
+- **Last commit**: 2026-09-17
 - **Assets in release**: 17
 
 ## Popularity
 
-- **Stars**: 13,724 · **Forks**: 876 · **Open issues**: 4,668 · **Contributors**: 335
+- **Stars**: 13,733 · **Forks**: 876 · **Open issues**: 4,668 · **Contributors**: 335
 
 ## Totals (cumulative)
 
-- **Releases**: 127 · **Merged PRs**: 4895 · **Open PRs**: 25 · **Closed issues**: 4488 · **Open issues**: 180 · **Commits**: 11301
+- **Releases**: 127 · **Merged PRs**: 4898 · **Open PRs**: 24 · **Closed issues**: 4489 · **Open issues**: 179 · **Commits**: 11312
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-18 | 2 | 175 | 10 | 19 | 10 | 515 |
-| last60d | 2026-07-19 | 3 | 333 | 12 | 65 | 28 | 1104 |
-| 90d | 2026-06-19 | 4 | 409 | 14 | 99 | 35 | 1379 |
-| last180d | 2026-03-21 | 4 | 592 | 20 | 138 | 45 | 1830 |
-| 360d | 2025-09-22 | 9 | 867 | 22 | 283 | 56 | 2366 |
-| last720d | 2024-09-27 | 19 | 1159 | 24 | 477 | 72 | 2606 |
+| 30d | 2026-08-19 | 2 | 173 | 8 | 19 | 10 | 528 |
+| last60d | 2026-07-20 | 3 | 334 | 11 | 66 | 27 | 1117 |
+| 90d | 2026-06-20 | 4 | 410 | 13 | 100 | 34 | 1392 |
+| last180d | 2026-03-22 | 4 | 595 | 18 | 136 | 44 | 1843 |
+| 360d | 2025-09-23 | 9 | 869 | 21 | 284 | 55 | 2379 |
+| last720d | 2024-09-28 | 19 | 1160 | 23 | 476 | 71 | 2617 |
 
 ## Release assets
 
@@ -96,4 +96,4 @@ Install metadata for borg lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260917.yml` · 2026-09-17T04:29:58Z._
+_Snapshot: `data/card/260918.yml` · 2026-09-18T04:15:00Z._
