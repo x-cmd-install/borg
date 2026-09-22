@@ -43,27 +43,27 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `2.0.0b24` (2026-07-18)
-- **Last commit**: 2026-09-20
+- **Last commit**: 2026-09-21
 - **Assets in release**: 17
 
 ## Popularity
 
-- **Stars**: 13,743 · **Forks**: 874 · **Open issues**: 4,672 · **Contributors**: 335
+- **Stars**: 13,748 · **Forks**: 874 · **Open issues**: 4,673 · **Contributors**: 335
 
 ## Totals (cumulative)
 
-- **Releases**: 127 · **Merged PRs**: 4909 · **Open PRs**: 25 · **Closed issues**: 4495 · **Open issues**: 177 · **Commits**: 11344
+- **Releases**: 127 · **Merged PRs**: 4910 · **Open PRs**: 26 · **Closed issues**: 4495 · **Open issues**: 178 · **Commits**: 11346
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-22 | 2 | 166 | 9 | 17 | 11 | 473 |
-| last60d | 2026-07-23 | 2 | 327 | 12 | 65 | 26 | 1071 |
-| 90d | 2026-06-23 | 4 | 415 | 14 | 101 | 35 | 1398 |
-| last180d | 2026-03-25 | 4 | 602 | 18 | 138 | 45 | 1885 |
-| 360d | 2025-09-26 | 9 | 879 | 22 | 288 | 55 | 2424 |
-| last720d | 2024-10-01 | 19 | 1166 | 24 | 479 | 71 | 2640 |
+| 30d | 2026-08-23 | 2 | 163 | 10 | 16 | 12 | 475 |
+| last60d | 2026-07-24 | 2 | 324 | 13 | 62 | 26 | 1073 |
+| 90d | 2026-06-24 | 4 | 416 | 15 | 100 | 35 | 1400 |
+| last180d | 2026-03-26 | 4 | 603 | 19 | 138 | 45 | 1887 |
+| 360d | 2025-09-27 | 9 | 880 | 23 | 288 | 56 | 2426 |
+| last720d | 2024-10-02 | 19 | 1163 | 25 | 476 | 72 | 2639 |
 
 ## Release assets
 
@@ -96,4 +96,4 @@ Install metadata for borg lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260921.yml` · 2026-09-21T04:28:45Z._
+_Snapshot: `data/card/260922.yml` · 2026-09-22T04:24:39Z._
