@@ -4,7 +4,7 @@
 
 Deduplicating archiver with compression and authenticated encryption.
 
-[![x-cmd/install — borg Code Quality Monitoring Repo Card](https://repo.x-cmd.io/borg.svg?lang=zh)](https://x-cmd.com/install/borg)
+[![x-cmd/install — borg Code Quality Monitoring Repo Card](https://x-cmd.com/repo-card/borg.svg?lang=zh)](https://x-cmd.com/install/borg)
 
 ## 安装
 
@@ -14,25 +14,25 @@ x install borg
 
 ## 代码洞察
 
-合计: **90,333** 行代码（覆盖前 5 种语言、共 **393** 个文件）。
+合计: **90,869** 行代码（覆盖前 5 种语言、共 **395** 个文件）。
 
 | 语言 | 代码 | 注释 | 空行 | 文件数 |
 |------|-----:|-----:|-----:|------:|
-| Python | 61,562 | 6,599 | 10,613 | 239 |
-| ReStructuredText | 13,700 | 0 | 3,981 | 64 |
+| Python | 61,839 | 6,628 | 10,672 | 239 |
+| ReStructuredText | 13,959 | 0 | 4,064 | 66 |
 | Bitbake | 6,627 | 39 | 351 | 62 |
 | Cython | 5,262 | 636 | 999 | 23 |
 | C | 896 | 342 | 115 | 5 |
 
 ## OpenSSF Scorecard 评分
 
-总评分: **6.6 / 10**
+总评分: **6.5 / 10**
 
 评分最低的几项:
 
-- **Code-Review** (1/10) — Found 2/14 approved changesets -- score normalized to 1
-- **Fuzzing** (0/10) — project is not fuzzed
+- **Code-Review** (0/10) — Found 1/11 approved changesets -- score normalized to 0
 - **Pinned-Dependencies** (4/10) — dependency not pinned by hash detected -- score normalized to 4
+- **Fuzzing** (0/10) — project is not fuzzed
 
 ## 源代码
 
@@ -43,27 +43,27 @@ x install borg
 ## 发布
 
 - **最新版本**: `2.0.0b24` (2026-07-18)
-- **最近提交**: 2026-09-21
+- **最近提交**: 2026-09-23
 - **Release 含资产**: 17 个
 
 ## 流行度
 
-- **Star**: 13,748 · **Fork**: 874 · **开放 issue**: 4,673 · **贡献者**: 335
+- **Star**: 13,756 · **Fork**: 874 · **开放 issue**: 4,674 · **贡献者**: 335
 
 ## 累计统计
 
-- **发布数**: 127 · **已合并 PR**: 4910 · **开放 PR**: 26 · **已关闭 issue**: 4495 · **开放 issue**: 178 · **提交数**: 11346
+- **发布数**: 127 · **已合并 PR**: 4918 · **开放 PR**: 26 · **已关闭 issue**: 4498 · **开放 issue**: 176 · **提交数**: 11364
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-23 | 2 | 163 | 10 | 16 | 12 | 475 |
-| last60d | 2026-07-24 | 2 | 324 | 13 | 62 | 26 | 1073 |
-| 90d | 2026-06-24 | 4 | 416 | 15 | 100 | 35 | 1400 |
-| last180d | 2026-03-26 | 4 | 603 | 19 | 138 | 45 | 1887 |
-| 360d | 2025-09-27 | 9 | 880 | 23 | 288 | 56 | 2426 |
-| last720d | 2024-10-02 | 19 | 1163 | 25 | 476 | 72 | 2639 |
+| 30d | 2026-08-24 | 1 | 165 | 10 | 16 | 12 | 500 |
+| last60d | 2026-07-25 | 2 | 331 | 14 | 64 | 25 | 1098 |
+| 90d | 2026-06-25 | 4 | 419 | 15 | 102 | 34 | 1425 |
+| last180d | 2026-03-27 | 4 | 611 | 20 | 140 | 44 | 1912 |
+| 360d | 2025-09-28 | 9 | 888 | 24 | 290 | 55 | 2451 |
+| last720d | 2024-10-03 | 19 | 1170 | 25 | 478 | 71 | 2639 |
 
 ## Release 资产
 
@@ -96,4 +96,4 @@ borg 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 索
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260922.yml` · 2026-09-22T04:24:40Z._
+_数据快照: `data/card/260923.yml` · 2026-09-23T04:21:17Z._
