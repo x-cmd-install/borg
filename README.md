@@ -48,22 +48,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 13,795 · **Forks**: 874 · **Open issues**: 4,690 · **Contributors**: 335
+- **Stars**: 13,796 · **Forks**: 875 · **Open issues**: 4,690 · **Contributors**: 335
 
 ## Totals (cumulative)
 
-- **Releases**: 128 · **Merged PRs**: 4958 · **Open PRs**: 33 · **Closed issues**: 4512 · **Open issues**: 178 · **Commits**: 11469
+- **Releases**: 128 · **Merged PRs**: 4958 · **Open PRs**: 36 · **Closed issues**: 4512 · **Open issues**: 178 · **Commits**: 11469
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-01 | 2 | 112 | 15 | 15 | 20 | 353 |
-| last60d | 2026-08-02 | 3 | 336 | 21 | 50 | 29 | 1105 |
-| 90d | 2026-07-03 | 5 | 433 | 22 | 101 | 38 | 1460 |
-| last180d | 2026-04-04 | 5 | 645 | 27 | 149 | 48 | 2046 |
-| 360d | 2025-10-06 | 10 | 925 | 31 | 295 | 61 | 2591 |
-| last720d | 2024-10-11 | 19 | 1201 | 32 | 483 | 76 | 2709 |
+| 30d | 2026-09-02 | 2 | 106 | 18 | 15 | 18 | 353 |
+| last60d | 2026-08-03 | 3 | 332 | 24 | 50 | 27 | 1105 |
+| 90d | 2026-07-04 | 5 | 429 | 25 | 100 | 38 | 1460 |
+| last180d | 2026-04-05 | 5 | 644 | 30 | 148 | 48 | 2046 |
+| 360d | 2025-10-07 | 10 | 925 | 34 | 294 | 61 | 2591 |
+| last720d | 2024-10-12 | 19 | 1200 | 35 | 483 | 76 | 2709 |
 
 ## Release assets
 
@@ -96,4 +96,4 @@ Install metadata for borg lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261001.yml` · 2026-10-01T05:22:17Z._
+_Snapshot: `data/card/261002.yml` · 2026-10-02T05:10:04Z._
