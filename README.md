@@ -43,27 +43,27 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `2.0.0b25` (2026-07-18)
-- **Last commit**: 2026-10-13
+- **Last commit**: 2026-10-14
 - **Assets in release**: 17
 
 ## Popularity
 
-- **Stars**: 13,837 · **Forks**: 883 · **Open issues**: 4,699 · **Contributors**: 336
+- **Stars**: 13,839 · **Forks**: 883 · **Open issues**: 4,700 · **Contributors**: 336
 
 ## Totals (cumulative)
 
-- **Releases**: 128 · **Merged PRs**: 5006 · **Open PRs**: 28 · **Closed issues**: 4548 · **Open issues**: 151 · **Commits**: 11597
+- **Releases**: 128 · **Merged PRs**: 5008 · **Open PRs**: 28 · **Closed issues**: 4548 · **Open issues**: 152 · **Commits**: 11601
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-14 | 1 | 111 | 9 | 16 | 15 | 373 |
-| last60d | 2026-08-15 | 3 | 311 | 15 | 44 | 20 | 935 |
-| 90d | 2026-07-16 | 5 | 448 | 16 | 93 | 33 | 1525 |
-| last180d | 2026-04-17 | 5 | 687 | 21 | 159 | 42 | 2197 |
-| 360d | 2025-10-19 | 10 | 933 | 26 | 302 | 54 | 2713 |
-| last720d | 2024-10-24 | 19 | 1240 | 27 | 492 | 66 | 2810 |
+| 30d | 2026-09-15 | 1 | 111 | 9 | 16 | 16 | 375 |
+| last60d | 2026-08-16 | 3 | 300 | 15 | 43 | 21 | 937 |
+| 90d | 2026-07-17 | 5 | 450 | 16 | 93 | 34 | 1527 |
+| last180d | 2026-04-18 | 5 | 689 | 21 | 159 | 43 | 2199 |
+| 360d | 2025-10-20 | 10 | 935 | 26 | 301 | 55 | 2715 |
+| last720d | 2024-10-25 | 19 | 1242 | 27 | 492 | 67 | 2811 |
 
 ## Release assets
 
@@ -96,4 +96,4 @@ Install metadata for borg lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261014.yml` · 2026-10-14T04:28:08Z._
+_Snapshot: `data/card/261015.yml` · 2026-10-15T04:10:58Z._
