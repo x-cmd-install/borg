@@ -26,13 +26,13 @@ x install borg
 
 ## OpenSSF Scorecard 评分
 
-总评分: **6.6 / 10**
+总评分: **6.5 / 10**
 
 评分最低的几项:
 
-- **Code-Review** (2/10) — Found 3/15 approved changesets -- score normalized to 2
-- **Fuzzing** (0/10) — project is not fuzzed
+- **Code-Review** (1/10) — Found 1/8 approved changesets -- score normalized to 1
 - **Pinned-Dependencies** (4/10) — dependency not pinned by hash detected -- score normalized to 4
+- **Fuzzing** (0/10) — project is not fuzzed
 
 ## 源代码
 
@@ -43,27 +43,27 @@ x install borg
 ## 发布
 
 - **最新版本**: `2.0.0b25` (2026-07-18)
-- **最近提交**: 2026-10-19
+- **最近提交**: 2026-10-20
 - **Release 含资产**: 17 个
 
 ## 流行度
 
-- **Star**: 13,862 · **Fork**: 883 · **开放 issue**: 4,701 · **贡献者**: 336
+- **Star**: 13,867 · **Fork**: 883 · **开放 issue**: 4,701 · **贡献者**: 336
 
 ## 累计统计
 
-- **发布数**: 128 · **已合并 PR**: 5010 · **开放 PR**: 30 · **已关闭 issue**: 4548 · **开放 issue**: 153 · **提交数**: 11607
+- **发布数**: 128 · **已合并 PR**: 5012 · **开放 PR**: 30 · **已关闭 issue**: 4548 · **开放 issue**: 153 · **提交数**: 11611
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-20 | 1 | 98 | 9 | 16 | 13 | 245 |
-| last60d | 2026-08-21 | 3 | 272 | 15 | 37 | 21 | 826 |
-| 90d | 2026-07-22 | 4 | 432 | 18 | 89 | 33 | 1425 |
-| last180d | 2026-04-23 | 5 | 690 | 23 | 159 | 44 | 2204 |
-| 360d | 2025-10-25 | 10 | 933 | 27 | 299 | 56 | 2711 |
-| last720d | 2024-10-30 | 19 | 1241 | 29 | 485 | 68 | 2786 |
+| 30d | 2026-09-21 | 1 | 99 | 9 | 15 | 13 | 249 |
+| last60d | 2026-08-22 | 3 | 269 | 15 | 36 | 21 | 830 |
+| 90d | 2026-07-23 | 3 | 430 | 18 | 87 | 33 | 1429 |
+| last180d | 2026-04-24 | 5 | 692 | 23 | 159 | 44 | 2208 |
+| 360d | 2025-10-26 | 10 | 934 | 27 | 298 | 56 | 2715 |
+| last720d | 2024-10-31 | 19 | 1240 | 29 | 481 | 68 | 2790 |
 
 ## Release 资产
 
@@ -96,4 +96,4 @@ borg 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 索
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261020.yml` · 2026-10-20T04:24:48Z._
+_数据快照: `data/card/261021.yml` · 2026-10-21T04:15:44Z._
