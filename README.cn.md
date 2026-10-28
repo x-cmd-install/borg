@@ -26,13 +26,13 @@ x install borg
 
 ## OpenSSF Scorecard 评分
 
-总评分: **6.5 / 10**
+总评分: **6.4 / 10**
 
 评分最低的几项:
 
-- **Code-Review** (1/10) — Found 1/8 approved changesets -- score normalized to 1
-- **Pinned-Dependencies** (4/10) — dependency not pinned by hash detected -- score normalized to 4
+- **Code-Review** (0/10) — Found 0/7 approved changesets -- score normalized to 0
 - **Fuzzing** (0/10) — project is not fuzzed
+- **Pinned-Dependencies** (4/10) — dependency not pinned by hash detected -- score normalized to 4
 
 ## 源代码
 
@@ -43,27 +43,27 @@ x install borg
 ## 发布
 
 - **最新版本**: `2.0.0b25` (2026-07-18)
-- **最近提交**: 2026-10-26
+- **最近提交**: 2026-10-27
 - **Release 含资产**: 17 个
 
 ## 流行度
 
-- **Star**: 13,883 · **Fork**: 883 · **开放 issue**: 4,703 · **贡献者**: 336
+- **Star**: 13,886 · **Fork**: 883 · **开放 issue**: 4,703 · **贡献者**: 335
 
 ## 累计统计
 
-- **发布数**: 128 · **已合并 PR**: 5022 · **开放 PR**: 30 · **已关闭 issue**: 4554 · **开放 issue**: 149 · **提交数**: 11623
+- **发布数**: 128 · **已合并 PR**: 5024 · **开放 PR**: 30 · **已关闭 issue**: 4554 · **开放 issue**: 149 · **提交数**: 11627
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-27 | 1 | 70 | 9 | 13 | 10 | 166 |
-| last60d | 2026-08-28 | 2 | 214 | 13 | 31 | 19 | 596 |
-| 90d | 2026-07-29 | 3 | 425 | 18 | 83 | 30 | 1330 |
-| last180d | 2026-04-30 | 5 | 702 | 23 | 163 | 41 | 2221 |
-| 360d | 2025-11-01 | 9 | 923 | 27 | 300 | 53 | 2690 |
-| last720d | 2024-11-06 | 18 | 1240 | 29 | 480 | 65 | 2756 |
+| 30d | 2026-09-28 | 0 | 65 | 9 | 10 | 7 | 168 |
+| last60d | 2026-08-29 | 2 | 198 | 13 | 30 | 18 | 598 |
+| 90d | 2026-07-30 | 3 | 422 | 18 | 81 | 30 | 1332 |
+| last180d | 2026-05-01 | 5 | 704 | 23 | 163 | 41 | 2223 |
+| 360d | 2025-11-02 | 9 | 921 | 27 | 299 | 53 | 2692 |
+| last720d | 2024-11-07 | 18 | 1241 | 29 | 478 | 65 | 2759 |
 
 ## Release 资产
 
@@ -96,4 +96,4 @@ borg 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 索
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261027.yml` · 2026-10-27T04:35:35Z._
+_数据快照: `data/card/261028.yml` · 2026-10-28T05:08:57Z._
