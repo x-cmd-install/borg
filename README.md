@@ -43,27 +43,27 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `2.0.0b25` (2026-07-18)
-- **Last commit**: 2026-11-02
+- **Last commit**: 2026-11-03
 - **Assets in release**: 17
 
 ## Popularity
 
-- **Stars**: 13,907 · **Forks**: 884 · **Open issues**: 4,707 · **Contributors**: 336
+- **Stars**: 13,911 · **Forks**: 884 · **Open issues**: 4,707 · **Contributors**: 336
 
 ## Totals (cumulative)
 
-- **Releases**: 128 · **Merged PRs**: 5037 · **Open PRs**: 43 · **Closed issues**: 4556 · **Open issues**: 151 · **Commits**: 11632
+- **Releases**: 128 · **Merged PRs**: 5049 · **Open PRs**: 33 · **Closed issues**: 4557 · **Open issues**: 150 · **Commits**: 11636
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-04 | 0 | 58 | 20 | 5 | 7 | 71 |
-| last60d | 2026-09-04 | 1 | 176 | 25 | 29 | 19 | 527 |
-| 90d | 2026-08-05 | 3 | 398 | 30 | 62 | 26 | 1179 |
-| last180d | 2026-05-07 | 5 | 706 | 36 | 164 | 43 | 2209 |
-| 360d | 2025-11-08 | 9 | 925 | 40 | 294 | 54 | 2679 |
-| last720d | 2024-11-13 | 18 | 1252 | 42 | 475 | 67 | 2752 |
+| 30d | 2026-10-05 | 0 | 63 | 10 | 6 | 6 | 75 |
+| last60d | 2026-09-05 | 1 | 188 | 15 | 30 | 17 | 531 |
+| 90d | 2026-08-06 | 3 | 408 | 20 | 60 | 25 | 1183 |
+| last180d | 2026-05-08 | 5 | 713 | 26 | 165 | 42 | 2213 |
+| 360d | 2025-11-09 | 9 | 936 | 30 | 295 | 53 | 2683 |
+| last720d | 2024-11-14 | 18 | 1263 | 32 | 476 | 65 | 2756 |
 
 ## Release assets
 
@@ -96,4 +96,4 @@ Install metadata for borg lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261103.yml` · 2026-11-03T06:11:44Z._
+_Snapshot: `data/card/261104.yml` · 2026-11-04T05:49:34Z._
