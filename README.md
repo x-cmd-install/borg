@@ -26,13 +26,13 @@ Total: **100,049** lines of code across **404** files in the top 5 languages.
 
 ## OpenSSF Scorecard
 
-Overall score: **6.4 / 10**
+Overall score: **6.5 / 10**
 
 Lowest-scoring checks:
 
-- **Code-Review** (0/10) — Found 0/7 approved changesets -- score normalized to 0
-- **Fuzzing** (0/10) — project is not fuzzed
+- **Code-Review** (1/10) — Found 1/7 approved changesets -- score normalized to 1
 - **Pinned-Dependencies** (4/10) — dependency not pinned by hash detected -- score normalized to 4
+- **Fuzzing** (0/10) — project is not fuzzed
 
 ## Source
 
@@ -52,18 +52,18 @@ Lowest-scoring checks:
 
 ## Totals (cumulative)
 
-- **Releases**: 128 · **Merged PRs**: 5049 · **Open PRs**: 33 · **Closed issues**: 4557 · **Open issues**: 150 · **Commits**: 11636
+- **Releases**: 128 · **Merged PRs**: 5055 · **Open PRs**: 31 · **Closed issues**: 4557 · **Open issues**: 150 · **Commits**: 11636
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-05 | 0 | 63 | 10 | 6 | 6 | 75 |
-| last60d | 2026-09-05 | 1 | 188 | 15 | 30 | 17 | 531 |
-| 90d | 2026-08-06 | 3 | 408 | 20 | 60 | 25 | 1183 |
-| last180d | 2026-05-08 | 5 | 713 | 26 | 165 | 42 | 2213 |
-| 360d | 2025-11-09 | 9 | 936 | 30 | 295 | 53 | 2683 |
-| last720d | 2024-11-14 | 18 | 1263 | 32 | 476 | 65 | 2756 |
+| 30d | 2026-10-06 | 0 | 61 | 9 | 6 | 6 | 75 |
+| last60d | 2026-09-06 | 1 | 191 | 15 | 30 | 17 | 531 |
+| 90d | 2026-08-07 | 3 | 413 | 19 | 58 | 25 | 1183 |
+| last180d | 2026-05-09 | 5 | 719 | 24 | 164 | 43 | 2213 |
+| 360d | 2025-11-10 | 9 | 941 | 28 | 289 | 53 | 2683 |
+| last720d | 2024-11-15 | 18 | 1266 | 30 | 475 | 66 | 2754 |
 
 ## Release assets
 
@@ -96,4 +96,4 @@ Install metadata for borg lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261104.yml` · 2026-11-04T05:49:34Z._
+_Snapshot: `data/card/261105.yml` · 2026-11-05T06:08:54Z._
