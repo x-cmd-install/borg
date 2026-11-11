@@ -30,7 +30,7 @@ Overall score: **6.5 / 10**
 
 Lowest-scoring checks:
 
-- **Code-Review** (1/10) — Found 1/7 approved changesets -- score normalized to 1
+- **Code-Review** (1/10) — Found 1/6 approved changesets -- score normalized to 1
 - **Pinned-Dependencies** (4/10) — dependency not pinned by hash detected -- score normalized to 4
 - **Fuzzing** (0/10) — project is not fuzzed
 
@@ -43,27 +43,27 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `2.0.0b25` (2026-07-18)
-- **Last commit**: 2026-11-09
+- **Last commit**: 2026-11-10
 - **Assets in release**: 17
 
 ## Popularity
 
-- **Stars**: 13,916 · **Forks**: 882 · **Open issues**: 4,707 · **Contributors**: 336
+- **Stars**: 13,918 · **Forks**: 882 · **Open issues**: 4,708 · **Contributors**: 336
 
 ## Totals (cumulative)
 
-- **Releases**: 128 · **Merged PRs**: 5063 · **Open PRs**: 33 · **Closed issues**: 4559 · **Open issues**: 148 · **Commits**: 11648
+- **Releases**: 128 · **Merged PRs**: 5066 · **Open PRs**: 31 · **Closed issues**: 4560 · **Open issues**: 148 · **Commits**: 11652
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-11 | 0 | 60 | 11 | 6 | 5 | 53 |
-| last60d | 2026-09-11 | 1 | 180 | 16 | 26 | 16 | 455 |
-| 90d | 2026-08-12 | 3 | 393 | 21 | 51 | 22 | 1035 |
-| last180d | 2026-05-14 | 5 | 683 | 26 | 164 | 42 | 2173 |
-| 360d | 2025-11-15 | 9 | 947 | 30 | 287 | 52 | 2674 |
-| last720d | 2024-11-20 | 17 | 1269 | 32 | 474 | 63 | 2753 |
+| 30d | 2026-10-12 | 0 | 60 | 8 | 6 | 5 | 57 |
+| last60d | 2026-09-12 | 1 | 179 | 14 | 25 | 16 | 459 |
+| 90d | 2026-08-13 | 3 | 395 | 19 | 52 | 22 | 1039 |
+| last180d | 2026-05-15 | 5 | 683 | 24 | 165 | 42 | 2177 |
+| 360d | 2025-11-16 | 9 | 950 | 28 | 287 | 52 | 2678 |
+| last720d | 2024-11-21 | 17 | 1272 | 30 | 475 | 63 | 2754 |
 
 ## Release assets
 
@@ -96,4 +96,4 @@ Install metadata for borg lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261110.yml` · 2026-11-10T06:54:00Z._
+_Snapshot: `data/card/261111.yml` · 2026-11-11T05:42:51Z._
