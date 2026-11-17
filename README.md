@@ -42,28 +42,28 @@ Lowest-scoring checks:
 
 ## Release
 
-- **Latest**: `2.0.0b25` (2026-07-18)
-- **Last commit**: 2026-11-14
+- **Latest**: `1.4.6rc1` (2026-07-18)
+- **Last commit**: 2026-11-16
 - **Assets in release**: 17
 
 ## Popularity
 
-- **Stars**: 13,932 · **Forks**: 884 · **Open issues**: 4,717 · **Contributors**: 336
+- **Stars**: 13,933 · **Forks**: 885 · **Open issues**: 4,717 · **Contributors**: 336
 
 ## Totals (cumulative)
 
-- **Releases**: 128 · **Merged PRs**: 5081 · **Open PRs**: 34 · **Closed issues**: 4564 · **Open issues**: 153 · **Commits**: 11659
+- **Releases**: 129 · **Merged PRs**: 5085 · **Open PRs**: 35 · **Closed issues**: 4564 · **Open issues**: 153 · **Commits**: 11661
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-17 | 0 | 68 | 9 | 8 | 8 | 58 |
-| last60d | 2026-09-17 | 1 | 178 | 17 | 27 | 22 | 370 |
-| 90d | 2026-08-18 | 3 | 361 | 21 | 50 | 28 | 934 |
-| last180d | 2026-05-20 | 5 | 692 | 26 | 167 | 47 | 2154 |
-| 360d | 2025-11-21 | 9 | 955 | 31 | 288 | 57 | 2658 |
-| last720d | 2024-11-26 | 17 | 1281 | 33 | 473 | 67 | 2755 |
+| 30d | 2026-10-18 | 1 | 72 | 10 | 8 | 8 | 60 |
+| last60d | 2026-09-18 | 2 | 176 | 18 | 27 | 22 | 372 |
+| 90d | 2026-08-19 | 4 | 359 | 22 | 50 | 28 | 936 |
+| last180d | 2026-05-21 | 6 | 696 | 27 | 166 | 47 | 2156 |
+| 360d | 2025-11-22 | 10 | 959 | 32 | 287 | 57 | 2660 |
+| last720d | 2024-11-27 | 18 | 1285 | 34 | 472 | 67 | 2757 |
 
 ## Release assets
 
@@ -96,4 +96,4 @@ Install metadata for borg lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261116.yml` · 2026-11-16T05:54:48Z._
+_Snapshot: `data/card/261117.yml` · 2026-11-17T07:31:58Z._
