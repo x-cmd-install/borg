@@ -26,11 +26,11 @@ Total: **100,226** lines of code across **404** files in the top 5 languages.
 
 ## OpenSSF Scorecard
 
-Overall score: **6.5 / 10**
+Overall score: **6.2 / 10**
 
 Lowest-scoring checks:
 
-- **Code-Review** (1/10) — Found 1/6 approved changesets -- score normalized to 1
+- **Code-Review** (0/10) — Found 0/6 approved changesets -- score normalized to 0
 - **Pinned-Dependencies** (4/10) — dependency not pinned by hash detected -- score normalized to 4
 - **Fuzzing** (0/10) — project is not fuzzed
 
@@ -43,27 +43,27 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `1.4.6rc1` (2026-07-18)
-- **Last commit**: 2026-11-16
+- **Last commit**: 2026-11-17
 - **Assets in release**: 17
 
 ## Popularity
 
-- **Stars**: 13,933 · **Forks**: 885 · **Open issues**: 4,717 · **Contributors**: 336
+- **Stars**: 13,938 · **Forks**: 884 · **Open issues**: 4,717 · **Contributors**: 336
 
 ## Totals (cumulative)
 
-- **Releases**: 129 · **Merged PRs**: 5085 · **Open PRs**: 35 · **Closed issues**: 4564 · **Open issues**: 153 · **Commits**: 11661
+- **Releases**: 129 · **Merged PRs**: 5087 · **Open PRs**: 33 · **Closed issues**: 4564 · **Open issues**: 153 · **Commits**: 11665
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-18 | 1 | 72 | 10 | 8 | 8 | 60 |
-| last60d | 2026-09-18 | 2 | 176 | 18 | 27 | 22 | 372 |
-| 90d | 2026-08-19 | 4 | 359 | 22 | 50 | 28 | 936 |
-| last180d | 2026-05-21 | 6 | 696 | 27 | 166 | 47 | 2156 |
-| 360d | 2025-11-22 | 10 | 959 | 32 | 287 | 57 | 2660 |
-| last720d | 2024-11-27 | 18 | 1285 | 34 | 472 | 67 | 2757 |
+| 30d | 2026-10-20 | 1 | 71 | 8 | 8 | 8 | 64 |
+| last60d | 2026-09-20 | 2 | 174 | 14 | 27 | 18 | 376 |
+| 90d | 2026-08-21 | 4 | 348 | 20 | 47 | 27 | 940 |
+| last180d | 2026-05-23 | 6 | 694 | 25 | 165 | 47 | 2160 |
+| 360d | 2025-11-24 | 10 | 961 | 30 | 286 | 57 | 2664 |
+| last720d | 2024-11-29 | 18 | 1286 | 32 | 470 | 67 | 2761 |
 
 ## Release assets
 
@@ -96,4 +96,4 @@ Install metadata for borg lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261117.yml` · 2026-11-17T07:31:58Z._
+_Snapshot: `data/card/261119.yml` · 2026-11-19T06:56:37Z._
