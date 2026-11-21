@@ -48,7 +48,7 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 13,937 · **Forks**: 884 · **Open issues**: 4,717 · **Contributors**: 336
+- **Stars**: 13,940 · **Forks**: 885 · **Open issues**: 4,717 · **Contributors**: 336
 
 ## Totals (cumulative)
 
@@ -58,12 +58,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-21 | 1 | 71 | 8 | 8 | 8 | 64 |
-| last60d | 2026-09-21 | 2 | 173 | 14 | 26 | 18 | 376 |
-| 90d | 2026-08-22 | 4 | 343 | 20 | 46 | 27 | 940 |
-| last180d | 2026-05-24 | 6 | 691 | 25 | 165 | 47 | 2160 |
-| 360d | 2025-11-25 | 10 | 961 | 30 | 286 | 57 | 2664 |
-| last720d | 2024-11-30 | 18 | 1286 | 32 | 470 | 67 | 2761 |
+| 30d | 2026-10-22 | 1 | 71 | 8 | 8 | 8 | 64 |
+| last60d | 2026-09-22 | 2 | 166 | 14 | 26 | 18 | 376 |
+| 90d | 2026-08-23 | 4 | 339 | 20 | 45 | 27 | 940 |
+| last180d | 2026-05-25 | 6 | 691 | 25 | 165 | 47 | 2160 |
+| 360d | 2025-11-26 | 10 | 961 | 30 | 286 | 57 | 2664 |
+| last720d | 2024-12-01 | 18 | 1286 | 32 | 470 | 67 | 2761 |
 
 ## Release assets
 
@@ -96,4 +96,4 @@ Install metadata for borg lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261120.yml` · 2026-11-20T06:48:14Z._
+_Snapshot: `data/card/261121.yml` · 2026-11-21T06:43:10Z._
